@@ -3,7 +3,7 @@
 	<br>
 	<br>
 	<br>
-	<img src="ppp_emerge.gif" width="638" height="358">
+	<img src="ppp_emerge.gif">
 	<p>Loading</p>
 	<br>
 	<br>
