@@ -1,12 +1,5 @@
 <div align="center">
-	<br>
-	<br>
-	<br>
-	<br>
-	<img src="ppp_emerge.gif">
-	<p>Loading</p>
-	<br>
-	<br>
-	<br>
-	<br>
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+		<img src="https://github.com/SentinelWarren/SentinelWarren/raw/master/info.svg?sanitize=true">
+	</a>
 </div>
